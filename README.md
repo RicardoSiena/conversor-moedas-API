@@ -1,5 +1,6 @@
-# Conversor de Moedas com consulta de API
-    Essa aplicação é uma melhoria do primeiro código de conversor de moedas, pois ele não possui a necessidade de colocarmos ou mudarmos os valores das cotações das moedas, pois isso é feito automaticamente pela API que foi adicionada a essa aplicação.
+# Conversor de Moedas com consulta de API 
+
+Essa aplicação é uma melhoria do primeiro código de conversor de moedas, pois ele não possui a necessidade de colocarmos ou mudarmos os valores das cotações das moedas, pois isso é feito automaticamente pela API que foi adicionada a essa aplicação.
 
 ## Funcionalidades
 
